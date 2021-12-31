@@ -17,7 +17,7 @@
             <xsl:for-each select="//section">
                 <tr>
                     <td colspan="3">
-                        <xsl:value-of select="@name" />
+                        <xsl:value-of selct="@name" />
                     </td>
                 </tr>
                 <xsl:for-each select="entry">
