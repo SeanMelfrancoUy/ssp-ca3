@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+//The following 58 lines of code (or lines 5 to 62) has been sourced from
+//https://github.com/mikhail-cct/ssp-practical
+
+<instruments>
+    <section name="Strings">
+    <entry>
+    <item>Piano</item>
+    <price>80.00</price>
+    </entry>
+    <entry>
+    <item>Violin</item>
+    <price>60.00</price>
+    </entry>
+    <entry>
+    <item>Guitar</item>
+    <price>70.00</price>
+    </entry>
+    </section>
+    <section name="Woodwinds">
+    <entry>
+    <item>Clarinet</item>
+    <price>40.00</price>
+    </entry>
+    <entry>
+    <item>Bassoon</item>
+    <price>60.00</price>
+    </entry>
+    <entry>
+    <item>Oboe</item>
+    <price>50.00</price>
+    </entry>
+    </section>
+    <section name="Brass">
+    <entry>
+    <item>French Horn</item>
+    <price>50.00</price>
+    </entry>
+    <entry>
+    <item>Saxophone</item>
+    <price>80.00</price>
+    </entry>
+    <entry>
+    <item>Trumpet</item>
+    <price>60.00</price>
+    </entry>
+    </section>
+    <section name="Percussion">
+    <entry>
+    <item>Snare Drum</item>
+    <price>60.00</price>
+    </entry>
+    <entry>
+    <item>Chimes</item>
+    <price>70.00</price>
+    </entry>
+    <entry>
+    <item>Xylophone</item>
+    <price>80.00</price>
+    </entry>
+    </section>
+    </menu>
