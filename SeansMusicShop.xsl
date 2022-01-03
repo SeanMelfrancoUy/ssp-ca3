@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 
-//The following 35 lines of code (or lines 6 to 40) has been sourced from
+//The following 35 lines of code (or lines 5 to 39) has been sourced from
 //https://github.com/mikhail-cct/ssp-practical
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
