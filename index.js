@@ -1,4 +1,4 @@
-//The following 75 lines of code (or lines 3 to 113) has been sourced from https://github.com/mikhail-cct/ssp-practical //
+//The following 75 lines of code (or lines 3 to 113) has been sourced from https://github.com/mikhail-cct/ssp-practical 
 
 const   http = require('http'), //This module provides the HTTP server functionalities
         path = require('path'), //The path module provides utilities for working with file and directory paths
